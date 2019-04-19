@@ -33,3 +33,8 @@ kudjaj8rgggl        webserver           replicated          1/1                 
 ```
 docker service scale webserver=2
 ```
+
+## Disconnect node from swarm
+```bash
+docker swarm leave
+```
