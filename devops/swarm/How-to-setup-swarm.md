@@ -28,3 +28,8 @@ docker service ls
 ID                  NAME                MODE                REPLICAS            IMAGE               PORTS
 kudjaj8rgggl        webserver           replicated          1/1                 httpd:latest        *:80->80/tcp
 ```
+
+## Scale the service
+```
+docker service scale webserver=2
+```
