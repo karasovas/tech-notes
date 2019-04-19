@@ -1,7 +1,7 @@
 # Docker swarm on Ubuntu 16.04
 ## Create docker Swarm cluster
 
-```
+```bash
 # docker swarm init --advertise-addr  172.31.83.87
 Swarm initialized: current node (jpzulo5kqrffje8go7wkuhz92) is now a manager.
 
