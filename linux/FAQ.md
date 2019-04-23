@@ -1,6 +1,6 @@
 # Linux FAQ
 
-## How to write video from screen in git
+## How to capture gif video from screen
 ![Peek](https://raw.githubusercontent.com/phw/peek/master/data/screenshots/peek-recording-itself.gif)
 ```
 apt-get install peek
